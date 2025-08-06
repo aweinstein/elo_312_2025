@@ -1,6 +1,11 @@
 # Carpetas de compilación
 sg1/Debug
-sg2/Release
+sg1/Release
+
+# Archivos locales de configuración
+sg1/.settings
+sg1/sg1\ Debug.launch
+*.launch
 
 # Prerequisites
 *.d
