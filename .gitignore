@@ -1,3 +1,7 @@
+# Carpetas de compilación
+sg1/Debug
+sg2/Release
+
 # Prerequisites
 *.d
 
