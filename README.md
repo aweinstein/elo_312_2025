@@ -4,3 +4,4 @@ Detalle del contenido del repositorio
 =====================================
 
 * sg1: Proyecto STM32CubeIde para ser usado como plantilla en la Sesión Guiada 1.
+* sg2: Proyecto STM32CubeIde para ser usado como plantilla en la Sesión Guiada 2.
